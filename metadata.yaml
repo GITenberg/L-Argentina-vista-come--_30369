@@ -1,0 +1,28 @@
+_repo: L-Argentina-vista-come--_30369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barzini, Luigi
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '7372'
+    url: http://www.gutenberg.org/2009/agents/7372
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Barzini,_Sr.
+description: ''
+gutenberg_bookshelf: IT Viaggi
+gutenberg_issued: '2009-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30369'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Description and travel'
+- !lcc 'F2801'
+title: L'Argentina vista come è
+url: http://www.gutenberg.org/ebooks/30369
