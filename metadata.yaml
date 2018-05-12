@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7372
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Barzini,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30369#L-Argentina-vista-come--
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2009-10-30'
 gutenberg_type: Text
